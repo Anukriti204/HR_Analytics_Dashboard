@@ -1,5 +1,8 @@
 ## HR Analytics Dashboard
 
+![WhatsApp Image 2024-04-04 at 9 16 40 PM](https://github.com/Anukriti204/HR_Analytics_Dashboard/assets/159823977/70f1c57b-9863-46a7-a77f-1f6954e721d2)
+
+
 ### Task 
 The objective of your dashboard is to provide a comprehensive visualization of employee attrition rates and the factors influencing them within your organization. This involves:
 
